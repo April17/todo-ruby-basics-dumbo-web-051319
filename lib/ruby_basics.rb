@@ -11,7 +11,7 @@ def argue(arguement)
   return arg
 end
 
-def greeting(greet = "Hi,there ", name)
+def greeting(greet , name)
   return greet + name + "."
 end
 
